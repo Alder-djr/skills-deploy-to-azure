@@ -7,10 +7,10 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace every with GitHub username ###
+  ### Replace Alder-djr with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: every-azure-ttt
-  AZURE_WEBAPP_NAME: every-ttt-app
+  DOCKER_IMAGE_NAME: <Alder-djr>-azure-ttt
+  AZURE_WEBAPP_NAME: <Alder-djr>-ttt-app
   ###############################################
 
 jobs:
